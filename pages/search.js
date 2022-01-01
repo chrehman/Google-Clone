@@ -1,7 +1,6 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import { useRouter } from 'next/router'
-import React, { useRef } from 'react'
+import React from 'react'
 import Header from './components/Header';
 import Response from '../Response';
 import SearchResults from './components/SearchResults';
