@@ -36,7 +36,7 @@ export default function Home() {
           <p className="link">Images</p>
           <ViewGridIcon className="w-10 h-10 
           p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
-          <Avatar url="https://firebasestorage.googleapis.com/v0/b/safe-citizen-life.appspot.com/o/55301984-0fc1-41da-9272-43ea841da78e1630749987295.jpg?alt=media&token=b5bf50a2-91e3-48aa-b7db-e2923f2dfd84" />
+          <Avatar url="https://www.google.co.uk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" />
         </div>
       </header>
 
@@ -74,7 +74,7 @@ export default function Home() {
           <MicrophoneIcon className="w-5 h-5 ml-3 text-gray-500" />
         </div>
         <div className="flex flex-col w-1/2 space-y-2 mt-8 justify-center 
-        sm:space-x-4 sm:flex-row sm:space-y-0   ">
+        sm:space-x-4 sm:flex-row sm:space-y-0">
           <button onClick={search} className="btn">
             Google Search
           </button>
@@ -85,7 +85,7 @@ export default function Home() {
         </div>
       </form>
 
-      {/* Footer */}
+    
       <Footer />
     </div>
   )
