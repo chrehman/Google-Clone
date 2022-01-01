@@ -55,7 +55,7 @@ function Header() {
                 </form>
                 <Avatar 
                 className="ml-auto"
-                url="https://www.google.co.uk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"/>
+                url="https://firebasestorage.googleapis.com/v0/b/safe-citizen-life.appspot.com/o/icon.png?alt=media&token=0c43fdeb-661a-4333-960c-b4c8eb153d2b"/>
             </div>
             <HeaderOptions/>
 

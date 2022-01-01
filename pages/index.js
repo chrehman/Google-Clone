@@ -36,7 +36,7 @@ export default function Home() {
           <p className="link">Images</p>
           <ViewGridIcon className="w-10 h-10 
           p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
-          <Avatar url="https://www.google.co.uk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" />
+          <Avatar url="https://firebasestorage.googleapis.com/v0/b/safe-citizen-life.appspot.com/o/icon.png?alt=media&token=0c43fdeb-661a-4333-960c-b4c8eb153d2b" />
         </div>
       </header>
 
