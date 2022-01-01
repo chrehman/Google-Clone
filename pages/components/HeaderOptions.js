@@ -8,21 +8,26 @@ function HeaderOptions() {
             <div className="flex space-x-6 items-center">
                 <HeaderOption Icon={SearchIcon}
                     title="All"
-                    selected />
+                    selected={true} />
                 <HeaderOption Icon={PhotographIcon}
                     title="Images"
+                    selected={false}
                 />
                 <HeaderOption Icon={PlayIcon}
                     title="Videos"
+                    selected={false}
                 />
                 <HeaderOption Icon={NewspaperIcon}
                     title="News"
+                    selected={false}
                 />
                 <HeaderOption Icon={MapIcon}
                     title="Map"
+                    selected={false}
                 />
                 <HeaderOption Icon={DotsVerticalIcon}
                     title="More"
+                    selected={false}
                 />
             </div>
             
